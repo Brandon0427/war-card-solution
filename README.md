@@ -10,10 +10,10 @@ During a war, each player places three cards face down, followed by one face-up 
 
 The game continues until one player has no remaining cards to reveal, which makes it the lose the game.
 
-## Addtional Considerations
+## Additional Considerations
 
-- Implement the logic of the game which determines the winner.
 - Deck of cards of each player can be predetermined.
+- Deck of does not need to be of 52 cards.
 - Card suits should not be taken into consideration.
 - Card argument types could just be given with numbers.
 - When a 'war' begins, if a player can't reveal 3 cards at once, automatically makes it the loser.
